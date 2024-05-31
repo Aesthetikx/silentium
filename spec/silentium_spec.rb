@@ -2,6 +2,6 @@
 
 RSpec.describe Silentium do
   it "has a version number" do
-    expect(Silentium::VERSION).not_to be nil
+    expect(Silentium::VERSION).not_to be_nil
   end
 end
